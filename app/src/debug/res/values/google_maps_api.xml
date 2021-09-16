@@ -1,0 +1,26 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=65:EC:B3:9E:88:6E:AE:87:7F:7B:E5:8E:B4:32:59:C7:1D:0B:34:6B%3Bcom.example.trakedemokotlin
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.trakedemokotlin
+
+    SHA-1 certificate fingerprint:
+    65:EC:B3:9E:88:6E:AE:87:7F:7B:E5:8E:B4:32:59:C7:1D:0B:34:6B
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+<!--    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAJmp7tY8BiR2S_8Kq8785emMjo82OuwPk</string>-->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyATZcxJUS9PKXdT7Wkw4xp3AAToLTlc3Nc</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22269224075",
+    "project_id": "trakedemokotlin",
+    "storage_bucket": "trakedemokotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22269224075:android:eba28497edc5b5e79ba08e",
+        "android_client_info": {
+          "package_name": "com.example.trakedemokotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22269224075-ngjkcml1ojnh72ikqsomhn2o7arrch0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Pnz5lnztXfD6yM1oQfg319hXjlJSdFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22269224075-ngjkcml1ojnh72ikqsomhn2o7arrch0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

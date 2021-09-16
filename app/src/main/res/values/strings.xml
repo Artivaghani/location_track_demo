@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DriverApp</string>
+    <string name="online_driver">Online</string>
+    <string name="offline">Offline</string>
+    <string name="need_location">Enable GPS SERVICE</string>
+    <string name="location_content">This app wants to change your device settings use GPS,Wi-Fi and cell networks for your location...</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Just For demo</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Map Demo</string>
+    <string name="menu_gallery">UserChat Demo</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
